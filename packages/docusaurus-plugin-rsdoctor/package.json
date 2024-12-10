@@ -22,7 +22,7 @@
     "@docusaurus/types": "3.5.2",
     "@docusaurus/utils-validation": "3.5.2",
     "@rsdoctor/rspack-plugin": "^0.4.6",
-    "@rsdoctor/webpack-plugin": "^0.4.6",
+    "@rsdoctor/webpack-plugin": "^0.4.10",
     "tslib": "^2.6.0"
   },
   "peerDependencies": {
